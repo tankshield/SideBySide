@@ -1,7 +1,5 @@
 # SideBySide
 
-![Blender](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png)
-
 SideBySide is a Blender 4.5 addon for macOS that allows launching multiple independent Blender application instances — either blank new windows or specific `.blend` files — to enable true side-by-side editing without replacing existing open files.
 
 ## Features
